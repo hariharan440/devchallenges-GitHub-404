@@ -1,0 +1,31 @@
+body{
+    font-family:monospace;
+    font-weight:900;
+}
+
+.pic{
+    height: 500px;
+    padding-top: 100px;
+}
+
+h6{
+    padding: 6px;
+}
+
+h1{
+    font-family: 'Play', sans-serif;
+    padding-top: 100px;
+}
+
+p{
+    color: gray;
+    font-family: 'Ubuntu', sans-serif;
+    padding: 4% 0% 30% 0%;
+    width: 500px;
+    height: 10px;
+}
+
+.btn{
+    padding:20px;
+    text-align: center;
+}
